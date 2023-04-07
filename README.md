@@ -1,13 +1,5 @@
-# Sample Hardhat Project
+# Renting Apartment System
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This Project is about a decentralized application for renting the apartments for which the whole transactions are stored and managed using blockchain technology via 
+smart contracts written in solidity
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
